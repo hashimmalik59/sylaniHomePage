@@ -1,0 +1,54 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: roboto;
+}
+.topbar {
+    height: 30px;
+    background-color: #ccc;
+    /* text-align: center; */
+}
+.topBarGroup {
+    width: 80%;
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+.topBarItem {
+    font-weight: bold;
+}
+.topBarItem img {
+    width: 20px;
+}
+nav {
+    height: 10vh;
+    align-content: center;
+}
+.innerNav {
+    width: 80%;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo img {
+    width: 200px;
+}
+.menuOptions ul li {
+    display: inline-block;
+    width: 100px;
+}
+.menuOptions ul {
+    align-content: center;
+}
+.menuOptions {
+    display: flex;
+    align-content: center;
+}
+.menuOptions button {
+    width: 100px;
+    height: 40px;
+    align-content: center;
+}
+
