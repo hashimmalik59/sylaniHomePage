@@ -24,6 +24,7 @@
 nav {
     height: 10vh;
     align-content: center;
+    background-color: black;
 }
 .innerNav {
     width: 80%;
